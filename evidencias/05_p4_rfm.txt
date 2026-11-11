@@ -1,0 +1,58 @@
+customer_id	customer_name	segment	recency_dias	frequency_ordenes	monetary_ventas	ganancia_total	r_score	f_score	m_score	rfm_codigo	rfm_total	segmento_rfm
+SM-20320	Sean Miller	Home Office	79	5	25043.05	-1980.74	3	2	5	325	10	Ocasional
+TC-20980	Tamara Chand	Corporate	399	5	19052.22	8981.32	1	2	5	125	8	En riesgo de abandono
+RB-19360	Raymond Buch	Consumer	96	6	15117.34	6976.10	3	3	5	335	11	Ocasional
+TA-21385	Tom Ashbrook	Home Office	69	4	14595.62	4703.79	3	1	5	315	9	Ocasional
+AB-10105	Adrian Barton	Consumer	41	10	14473.57	5444.81	4	5	5	455	14	Alto valor
+KL-16645	Ken Lonsdale	Consumer	47	12	14175.23	806.86	4	5	5	455	14	Alto valor
+SC-20095	Sanjit Chand	Consumer	349	9	14142.33	5757.41	1	5	5	155	11	En riesgo de abandono
+HL-15040	Hunter Lopez	Consumer	43	6	12873.30	5622.43	4	3	5	435	12	Ocasional
+SE-20110	Sanjit Engle	Consumer	9	11	12209.44	2650.68	5	5	5	555	15	Alto valor
+CC-12370	Christopher Conant	Consumer	43	5	12129.07	2177.05	4	2	5	425	11	Nuevo / prometedor
+TS-21370	Todd Sumrall	Corporate	36	6	11891.75	2371.71	4	3	5	435	12	Ocasional
+GT-14710	Greg Tran	Consumer	36	11	11820.12	2163.43	4	5	5	455	14	Alto valor
+BM-11140	Becky Martin	Consumer	307	4	11789.63	-1659.96	1	2	5	125	8	En riesgo de abandono
+SV-20365	Seth Vernon	Consumer	101	10	11470.95	1199.42	3	5	5	355	13	Recurrente
+CJ-12010	Caroline Jumper	Consumer	189	8	11164.97	858.74	2	4	5	245	11	En riesgo de abandono
+CL-12565	Clay Ludtke	Consumer	284	12	10880.55	1933.78	1	5	5	155	11	En riesgo de abandono
+ME-17320	Maria Etezadi	Home Office	42	10	10663.73	1859.47	4	5	5	455	14	Alto valor
+KF-16285	Karen Ferguson	Home Office	97	7	10604.27	1660.14	3	4	5	345	12	Recurrente
+BS-11365	Bill Shonely	Corporate	558	5	10501.65	2616.06	1	2	5	125	8	En riesgo de abandono
+EH-13765	Edward Hooks	Corporate	135	12	10310.88	1393.52	2	5	5	255	12	En riesgo de abandono
+JL-15835	John Lee	Consumer	21	11	9799.92	228.91	5	5	5	555	15	Alto valor
+GT-14635	Grant Thornton	Corporate	56	3	9351.21	-4108.66	3	1	5	315	9	Ocasional
+HW-14935	Helen Wasserman	Corporate	117	8	9300.25	2164.16	2	4	5	245	11	En riesgo de abandono
+TB-21400	Tom Boeckenhauer	Consumer	202	7	9133.99	2798.37	2	3	5	235	10	En riesgo de abandono
+PF-19120	Peter Fuller	Consumer	835	4	9062.86	-614.29	1	2	5	125	8	En riesgo de abandono
+segmento_rfm	clientes	pct_clientes	recency_prom_dias	frequency_prom	monetary_prom	ventas_totales	pct_ventas
+Ocasional	402	50.69	199.9	5.2	1856.32	746240.77	32.48
+Alto valor	105	13.24	24.8	9.3	5269.17	553262.35	24.08
+En riesgo de abandono	97	12.23	253.3	7.2	5279.86	512145.98	22.29
+Recurrente	102	12.86	65.7	8.7	3215.52	327983.48	14.28
+Nuevo / prometedor	87	10.97	25.1	4.1	1811.13	157568.28	6.86
+r_score	f_score	clientes	ventas
+5	5	48	208970.60
+5	4	43	141230.44
+5	3	22	65427.81
+5	2	22	39090.71
+5	1	23	27888.44
+4	5	40	194381.23
+4	4	42	139914.73
+4	3	34	115147.23
+4	2	18	50178.64
+4	1	24	40410.50
+3	5	31	117857.23
+3	4	30	105588.95
+3	3	40	122693.27
+3	2	23	75859.67
+3	1	35	66353.00
+2	5	26	96835.69
+2	4	36	140137.91
+2	3	40	109479.39
+2	2	32	60920.92
+2	1	25	32719.25
+1	5	13	69207.59
+1	4	7	24153.72
+1	3	23	55803.89
+1	2	64	152186.24
+1	1	52	44763.81

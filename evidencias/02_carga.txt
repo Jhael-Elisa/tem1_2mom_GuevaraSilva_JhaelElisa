@@ -1,0 +1,13 @@
+total_registros
+9994
+order_year	registros
+2014	1993
+2015	2102
+2016	2587
+2017	3312
+row_id	order_id	order_date	ship_date	ship_mode	customer_id	customer_name	segment	country	city	state	postal_code	region	product_id	category	sub_category	product_name	sales	quantity	discount	profit	order_year
+1319	CA-2014-160773	2014-07-01	2014-07-05	Standard Class	LW-16825	Laurel Workman	Corporate	United States	Deltona	Florida	32725	South	TEC-PH-10004586	Technology	Phones	Wilson SignalBoost 841262 DB PRO Amplifier Kit	575.9200	2	0.2000	71.9900	2014
+7047	CA-2014-150581	2014-04-08	2014-04-12	Standard Class	NM-18445	Nathan Mautz	Home Office	United States	Concord	California	94521	West	FUR-TA-10003748	Furniture	Tables	Bevis 36 x 72 Conference Tables	99.5920	1	0.2000	2.4898	2014
+8573	CA-2014-121629	2014-11-28	2014-12-02	Standard Class	BT-11680	Brian Thompson	Consumer	United States	Houston	Texas	77041	Central	TEC-MA-10004679	Technology	Machines	StarTech.com 10/100 VDSL2 Ethernet Extender Kit	998.8500	5	0.4000	-199.7700	2014
+5816	CA-2014-124730	2014-11-26	2014-11-26	Same Day	LS-17245	Lynn Smith	Consumer	United States	Utica	New York	13501	East	TEC-PH-10002170	Technology	Phones	ClearSounds CSC500 Amplified Spirit Phone Corded phone	279.9600	4	0.0000	78.3888	2014
+5817	CA-2014-124730	2014-11-26	2014-11-26	Same Day	LS-17245	Lynn Smith	Consumer	United States	Utica	New York	13501	East	OFF-BI-10001078	Office Supplies	Binders	Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8" X 11"	12.9120	3	0.2000	4.6806	2014

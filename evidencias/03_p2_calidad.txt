@@ -1,0 +1,20 @@
+metrica	valor
+Total de registros	9994
+Row ID duplicados	0
+Ordenes unicas	5009
+Clientes unicos	793
+Productos unicos	1862
+Registros con fecha de pedido invalida/NULL	0
+Registros con fecha de envio invalida/NULL	0
+Registros con ventas <= 0	0
+Registros con cantidad <= 0	0
+Registros con descuento fuera de [0,1]	0
+Registros con envio anterior al pedido	0
+Registros con ganancia negativa (perdida)	1871
+Registros con caracteres corruptos en product_name	278
+null_row_id	null_order_id	null_order_date	null_ship_date	null_ship_mode	null_customer_id	null_customer_name	null_segment	null_country	null_city	null_state	null_postal_code	null_region	null_product_id	null_category	null_sub_category	null_product_name	null_sales	null_quantity	null_discount	null_profit
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+fecha_min_pedido	fecha_max_pedido	fecha_min_envio	fecha_max_envio	venta_min	venta_max	ganancia_min	ganancia_max	descuento_min	descuento_max	cantidad_min	cantidad_max
+2014-01-03	2017-12-30	2014-01-07	2018-01-05	0.4440	22638.4800	-6599.9780	8399.9760	0.0000	0.8000	1	14
+registros_staging	registros_analitica	diferencia
+9994	9994	0

@@ -1,0 +1,59 @@
+category	posicion	product_id	product_name	ganancia	ganancia_acumulada_categoria	ventas	margen_pct
+Furniture	1	FUR-CH-10000454	Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back	1927.44	1927.44	10637.53	18.12
+Furniture	2	FUR-CH-10004063	Global Deluxe High-Back Manager's Chair	1558.59	3486.03	8665.19	17.99
+Furniture	3	FUR-CH-10002320	Hon Pagoda Stacking Chairs	1540.70	5026.74	6483.80	23.76
+Furniture	4	FUR-CH-10004086	Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs	1388.63	6415.37	8431.00	16.47
+Furniture	5	FUR-CH-10001854	Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat	1305.65	7721.02	8774.50	14.88
+Office Supplies	1	OFF-BI-10003527	Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind	7753.04	7753.04	27453.38	28.24
+Office Supplies	2	OFF-BI-10001120	Ibico EPK-21 Electric Binding System	3345.28	11098.32	15875.92	21.07
+Office Supplies	3	OFF-AP-10002945	Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room	3247.02	14345.34	11304.44	28.72
+Office Supplies	4	OFF-BI-10003925	Fellowes PB300 Plastic Comb Binding Machine	2518.06	16863.40	8070.19	31.20
+Office Supplies	5	OFF-BI-10004600	Ibico Ibimaster 300 Manual Binding System	2318.34	19181.73	7985.38	29.03
+Technology	1	TEC-CO-10004722	Canon imageCLASS 2200 Advanced Copier	25199.93	25199.93	61599.82	40.91
+Technology	2	TEC-CO-10001449	Hewlett Packard LaserJet 3310 Copier	6983.88	32183.81	18839.69	37.07
+Technology	3	TEC-CO-10003763	Canon PC1060 Personal Laser Copier	4570.93	36754.75	11619.83	39.34
+Technology	4	TEC-AC-10002049	Plantronics Savi W720 Multi-Device Wireless Headset System	4425.34	41180.09	13756.54	32.17
+Technology	5	TEC-MA-10001127	HP Designjet T520 Inkjet Large Format Printer - 24" Color	4094.98	45275.07	18374.90	22.29
+posicion	product_id	product_name	category	ventas	ventas_acumuladas	ganancia
+1	TEC-CO-10004722	Canon imageCLASS 2200 Advanced Copier	Technology	61599.82	61599.82	25199.93
+2	OFF-BI-10003527	Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind	Office Supplies	27453.38	89053.21	7753.04
+3	TEC-MA-10002412	Cisco TelePresence System EX90 Videoconferencing Unit	Technology	22638.48	111691.69	-1811.08
+4	FUR-CH-10002024	HON 5400 Series Task Chairs for Big and Tall	Furniture	21870.58	133562.26	0.00
+5	OFF-BI-10001359	GBC DocuBind TL300 Electric Binding System	Office Supplies	19823.48	153385.74	2233.51
+posicion	product_id	product_name	category	sub_category	ventas	ganancia	margen_pct
+1	OFF-AP-10002203	Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac	Office Supplies	Appliances	1.62	-4.47	-275.00
+2	FUR-BO-10001567	Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled	Furniture	Bookcases	90.88	-190.85	-210.00
+3	OFF-AP-10000390	Euro Pro Shark Stick Mini Vacuum	Office Supplies	Appliances	170.74	-325.63	-190.71
+4	TEC-MA-10003337	Okidata B401 Printer	Technology	Machines	179.99	-251.99	-140.00
+5	TEC-MA-10001695	Zebra GK420t Direct Thermal/Thermal Transfer Printer	Technology	Machines	703.71	-938.28	-133.33
+category	rank_ganancia	dense_rank_ventas	product_id	product_name	ventas	ganancia	margen_pct
+Furniture	1	7	FUR-CH-10000454	Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back	10637.53	1927.44	18.12
+Furniture	2	12	FUR-CH-10004063	Global Deluxe High-Back Manager's Chair	8665.19	1558.59	17.99
+Furniture	3	26	FUR-CH-10002320	Hon Pagoda Stacking Chairs	6483.80	1540.70	23.76
+Furniture	4	13	FUR-CH-10004086	Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs	8431.00	1388.63	16.47
+Furniture	5	11	FUR-CH-10001854	Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat	8774.50	1305.65	14.88
+Furniture	6	39	FUR-CH-10002073	Hon Olson Stacker Chairs	5427.99	1292.13	23.80
+Furniture	7	93	FUR-FU-10002937	GE 48" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box	2699.06	1260.22	46.69
+Furniture	8	21	FUR-CH-10002335	Hon GuestStacker Chair	6936.10	1233.08	17.78
+Furniture	9	6	FUR-CH-10004287	SAFCO Arco Folding Chair	11572.78	1179.37	10.19
+Furniture	10	32	FUR-CH-10003746	Hon 4070 Series Pagoda Round Back Stacking Chairs	5906.03	1052.81	17.83
+Office Supplies	1	1	OFF-BI-10003527	Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind	27453.38	7753.04	28.24
+Office Supplies	2	7	OFF-BI-10001120	Ibico EPK-21 Electric Binding System	15875.92	3345.28	21.07
+Office Supplies	3	8	OFF-AP-10002945	Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room	11304.44	3247.02	28.72
+Office Supplies	4	13	OFF-BI-10003925	Fellowes PB300 Plastic Comb Binding Machine	8070.19	2518.06	31.20
+Office Supplies	5	14	OFF-BI-10004600	Ibico Ibimaster 300 Manual Binding System	7985.38	2318.34	29.03
+Office Supplies	6	2	OFF-BI-10001359	GBC DocuBind TL300 Electric Binding System	19823.48	2233.51	11.27
+Office Supplies	7	12	OFF-ST-10001490	Hot File 7-Pocket, Floor Stand	8138.23	2016.71	24.78
+Office Supplies	8	15	OFF-ST-10003208	Adjustable Depth Letter/Legal Cart	7730.20	1932.55	25.00
+Office Supplies	9	22	OFF-AP-10000275	Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black	5906.52	1653.83	28.00
+Office Supplies	10	21	OFF-ST-10002615	Dual Level, Single-Width Filing Carts	6574.54	1640.53	24.95
+Technology	1	1	TEC-CO-10004722	Canon imageCLASS 2200 Advanced Copier	61599.82	25199.93	40.91
+Technology	2	3	TEC-CO-10001449	Hewlett Packard LaserJet 3310 Copier	18839.69	6983.88	37.07
+Technology	3	10	TEC-CO-10003763	Canon PC1060 Personal Laser Copier	11619.83	4570.93	39.34
+Technology	4	8	TEC-AC-10002049	Plantronics Savi W720 Multi-Device Wireless Headset System	13756.54	4425.34	32.17
+Technology	5	4	TEC-MA-10001127	HP Designjet T520 Inkjet Large Format Printer - 24" Color	18374.90	4094.98	22.29
+Technology	6	21	TEC-MA-10003979	Ativa V4110MDD Micro-Cut Shredder	7699.89	3772.95	49.00
+Technology	7	6	TEC-MA-10001047	3D Systems Cube Printer, 2nd Generation, Magenta	14299.89	3717.97	26.00
+Technology	8	26	TEC-MA-10000045	Zebra ZM400 Thermal Label Printer	6965.70	3343.54	48.00
+Technology	9	16	TEC-CO-10002095	Hewlett Packard 610 Color Digital Copier / Printer	8899.82	3124.94	35.11
+Technology	10	13	TEC-AC-10003033	Plantronics CS510 - Over-the-Head monaural Wireless Headset System	10822.36	3085.03	28.51
