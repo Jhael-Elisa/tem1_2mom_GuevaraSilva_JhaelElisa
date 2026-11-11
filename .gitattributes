@@ -1,0 +1,11 @@
+# Normalización de finales de línea
+* text=auto
+
+# Scripts de shell y consultas Hive deben conservar LF (Linux/Hive)
+*.sh  text eol=lf
+*.sql text eol=lf
+*.csv text eol=lf
+
+# Scripts de PowerShell y documentación en Windows
+*.ps1 text eol=crlf
+*.md  text eol=lf
